@@ -6,4 +6,4 @@
 - ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-Este portfolio es un proyecto simplemente para poner en practica los conocimientos estudiados siendo el mismo una plantilla a modo de presentacion. 
+Este Formulario es un proyecto simplemente para poner en practica los conocimientos estudiados siendo el mismo una plantilla a modo de presentacion. 
